@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Vendor Payments
- * Description: Practical Task
+ * Description: Vendor Payment Management
  * Version: 1.0.0
  * Author: Jignesh Viramgami
  */
